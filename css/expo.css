@@ -8,8 +8,8 @@
 }
 
 #beg-pre{
-    height: 100vh;
-    background: url(../../img/../../img/../../img/../../img/PRSP.png) no-repeat center center fixed;
+    height: 105vh;
+    background: url('C://MP/img/P12.png') no-repeat center center fixed;
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover; /* Mozilla*/
     -o-background-size: cover; /* Opera*/
@@ -18,7 +18,7 @@
 
 #presentation {
     height: 100vh;
-    background: url(../../img/../../img/b.jpg) no-repeat center center fixed;
+    background: url('C://MP/img/c.jpg') no-repeat center center fixed;
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover; /* Mozilla*/
     -o-background-size: cover; /* Opera*/
@@ -27,7 +27,7 @@
 
 #problem {
     height: 100vh;
-    background: url(../../img/../../img/c.jpg) no-repeat center center fixed;
+    background: url('C://MP/img/b.jpg') no-repeat center center fixed;
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover; /* Mozilla*/
     -o-background-size: cover; /* Opera*/
@@ -36,7 +36,7 @@
 
 #conclusion {
     height: 100vh;
-    background: url(../../img/../../img/a.jpg) no-repeat center center fixed;
+    background: url('C://MP/img/a.jpg') no-repeat center center fixed;
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover; /* Mozilla*/
     -o-background-size: cover; /* Opera*/
